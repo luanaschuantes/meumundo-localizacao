@@ -24,7 +24,7 @@ body {
 }
 
 .button.primary {
-    background-color: #;000000
+    background-color: #000000;
     color: #fff;
     border: 2px solid #000000;
 }
@@ -42,7 +42,7 @@ body {
 
 .button.secondary:hover {
     background-color: #007bff;
-    color: #fff;
+    color: #007bff;
     transform: translateY(-2px);
     box-shadow: 0 3px 10px rgba(0, 123, 255, 0.2);
 }
@@ -85,7 +85,7 @@ body {
 
 .logo {
     font-size: 2em;
-    color: #;
+    color: #007bff;
     text-decoration: none;
 }
 
