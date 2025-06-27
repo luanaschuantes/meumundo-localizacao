@@ -25,7 +25,7 @@ body {
 
 .button.primary {
     background-color: #fff;
-    color: #fff;
+    color: #f4f4f4;
     border: 2px solid #000000;
 }
 
@@ -49,7 +49,7 @@ body {
 
 .section-title {
     font-size: 2.5em;
-    color: #007bff;
+    color: #f8f8f8;
     text-align: center;
     margin-bottom: 30px;
     position: relative;
@@ -102,7 +102,7 @@ body {
 
 .main-nav a {
     text-decoration: none;
-    color: #fff
+    color: #ffd1dc
     ;
     font-weight: bold;
     transition: color 0.3s ease-in-out;
