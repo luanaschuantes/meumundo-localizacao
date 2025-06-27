@@ -3,8 +3,8 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #993399;
-    color: #993399;
+    background-color: #C71585;
+    color: #C71585;
     line-height: 1.6;
 }
 
@@ -25,7 +25,7 @@ body {
 
 .button.primary {
     background-color: #fff;
-    color: #f4f4f4;
+    color: #FFB6C1;
     border: 2px solid #000000;
 }
 
