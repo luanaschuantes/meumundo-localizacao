@@ -24,7 +24,7 @@ body {
 }
 
 .button.primary {
-    background-color: #000000;
+    background-color: #fff;
     color: #fff;
     border: 2px solid #000000;
 }
@@ -125,7 +125,7 @@ body {
 }
 
 .search-bar button[type="submit"] {
-    background-color: #007bff;
+    background-color: #fff;
     color: #fff;
     border: none;
     padding: 10px 15px;
