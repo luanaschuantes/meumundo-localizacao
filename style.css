@@ -42,7 +42,7 @@ body {
 
 .button.secondary:hover {
     background-color: #DDA0DD;
-    color: #DDA0DD;
+    color: #FFF0F5;
     transform: translateY(-2px);
     box-shadow: 0 3px 10px rgba(0, 123, 255, 0.2);
 }
