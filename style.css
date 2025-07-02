@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color:#EE82EE;
-    color: #483D8B;
+    color: #DA70D6;
     line-height: 1.6;
 }
 
@@ -102,7 +102,7 @@ body {
 
 .main-nav a {
     text-decoration: none;
-    color: #ffd1dc
+    color: #FF69B4
     ;
     font-weight: bold;
     transition: color 0.3s ease-in-out;
