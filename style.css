@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color:#EE82EE;
-    color: #DA70D6;
+    color: #FF1493;
     line-height: 1.6;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .button.secondary {
-    background-color: #000000;
+    background-color: #FFC0CB;
     color: #8B008B;
     border: 2px solid #000000;
 }
