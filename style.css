@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color:#EE82EE;
-    color: #FF1493;
+    color: #DA70D6;
     line-height: 1.6;
 }
 
@@ -25,7 +25,7 @@ body {
 
 .button.primary {
     background-color: #fff;
-    color: #FF69B4;
+    color: #DA70D6;
     border: 2px solid #000000;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .button.secondary {
-    background-color: #FFC0CB;
+    background-color: #DDA0DD;
     color: #8B008B;
     border: 2px solid #000000;
 }
@@ -102,7 +102,7 @@ body {
 
 .main-nav a {
     text-decoration: none;
-    color: #FF69B4
+    color: #FF00FF
     ;
     font-weight: bold;
     transition: color 0.3s ease-in-out;
@@ -126,7 +126,7 @@ body {
 
 .search-bar button[type="submit"] {
     background-color: #fff;
-    color: #BA55D3;
+    color: #FF69B4;
     border: none;
     padding: 10px 15px;
     border-radius: 0 5px 5px 0;
@@ -156,7 +156,7 @@ body {
 /* Hero Section */
 .hero {
     background: linear-gradient(rgba(8, 9, 0, 5.0), rgba(8, 9, 0, 5.0)), url('materiais de construção.site') center/cover no-repeat;
-    color: #FF69B4;
+    color: #FFE4E1;
     padding: 100px 0;
     text-align: center;
 }
@@ -192,7 +192,7 @@ body {
 }
 
 .product-card {
-    background-color: #000000;
+    background-color: #FFC0CB;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
